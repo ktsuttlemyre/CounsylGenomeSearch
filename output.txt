@@ -1,0 +1,1 @@
+{'chromY': [], 'chromX': [34354639], 'chrom20': [], 'chrom21': [], 'chrom19': [], 'chrom18': [], 'chrom11': [], 'chrom10': [], 'chrom13': [], 'chrom12': [], 'chrom15': [], 'chrom14': [], 'chrom17': [], 'chrom16': [], 'chrom9': [], 'chrom8': [], 'chrom5': [], 'chrom4': [], 'chrom7': [41199145], 'chrom6': [], 'chrom1': [], 'chrom3': [], 'chrom2': []}
